@@ -1,4 +1,4 @@
-# Polymarket Event Bot
+# Bybit Launchpool APR Parser
 
 This bot monitors the APR (Annual Percentage Rate) of a specific launchpool on Bybit and sends updates to a specified Telegram user.
 
